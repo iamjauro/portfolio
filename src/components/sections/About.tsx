@@ -44,7 +44,7 @@ export default function About() {
               <div>
                 <p className="text-gray-400 font-[500] text-[15px]">Name</p>
                 <p className="text-[20px] text-[#0F2943] font-bold">
-                  Eliot Johnson
+                  Muhammad Barkindo Umar
                 </p>
               </div>
               <div>
